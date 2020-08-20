@@ -5,3 +5,5 @@
 *ǝƃɐnƃuɐl-ƃuᴉpoɔ ʍǝu oʇ ʎɐʍ ǝɥʇ*
 
 </div>
+
+- [the-way-to-shell](/shell/README.md)
