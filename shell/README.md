@@ -10,6 +10,7 @@
 - [how-to-check-package-install](/shell/qa/check-package-install.md)
 - [how-to-print-and-update-sameline](/shell/qa/update-sameline.md)
 - [how-to-iter-array](/shell/qa/iter-array.md)
+- [how-to-add-line-to-file](/shell/qa/add-line-to-file.md)
 
 ## quick-reference
 
