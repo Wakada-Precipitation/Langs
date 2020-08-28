@@ -12,7 +12,7 @@
 - [how-to-iter-array](/shell/qa/iter-array.md)
 - [how-to-add-line-to-file](/shell/qa/add-line-to-file.md)
 - [how-to-download-file](/shell/qa/download-file.md)
-- [how-to-async-config-variable](/shell/qa/async-config-variable.sh)
+- [how-to-async-config-variable](/shell/qa/async-config-variable.md)
 
 ## quick-reference
 
