@@ -1,4 +1,5 @@
 # 🅢🅗🅔🅛🅛
+> `bash --version`
 
 ## tutorials
 
@@ -13,6 +14,7 @@
 - [how-to-add-line-to-file](/shell/qa/add-line-to-file.md)
 - [how-to-download-file](/shell/qa/download-file.md)
 - [how-to-async-config-variable](/shell/qa/async-config-variable.md)
+- [how-to-handle-array](/shell/qa/handle-array.md)
 
 ## quick-reference
 
