@@ -15,6 +15,7 @@
 - [how-to-download-file](/shell/qa/download-file.md)
 - [how-to-async-config-variable](/shell/qa/async-config-variable.md)
 - [how-to-handle-array](/shell/qa/handle-array.md)
+- [how-to-handle-function-params](/shell/qa/handle-function-params.md)
 
 ## quick-reference
 
