@@ -16,6 +16,7 @@
 - [how-to-async-config-variable](/shell/qa/async-config-variable.md)
 - [how-to-handle-array](/shell/qa/handle-array.md)
 - [how-to-handle-function-params](/shell/qa/handle-function-params.md)
+- [how-to-catch-returnvalue-of-function](/shell/qa/get-value-from-function.md)
 
 ## quick-reference
 
