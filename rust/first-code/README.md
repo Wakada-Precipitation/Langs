@@ -22,3 +22,10 @@
 1. 控制语句一般不加`()` 
 2. `loop`是`while`的语法糖
 3. `for`遍历数组的方式是`for x in arr.iter()` or `for in arr.iter().enumerate()`
+
+### Style guide
+
+和`ts`比较类似的规则。
+
+1. 类型是`CamelCase`
+2. 但是变量和函数都是`snake_case`
