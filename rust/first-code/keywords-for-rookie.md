@@ -7,6 +7,24 @@
 1. 类型是`CamelCase`
 2. 但是变量和函数都是`snake_case`
 
+### **rustup vs cargo**
+
+两个都可以进行一些下载安装工作，所以就会有点疑惑。两者的区别个人看法是：
+
+- `rustup` = `webpack`, install pkgs to build project
+- `cargo` = `pkg manager`, install pkgs used in project
+
+### **extern**
+
+`extern crate pkg`和`use pkg`有点让人误解。从某种意义上来说，后者也可以表达使用外部`pkg`含义。至少对于一个`JS user`来说是这样的。[stackoverflow](https://stackoverflow.com/questions/29403920/whats-the-difference-between-use-and-extern)回答了这个疑惑，在*rust-2018*之后，在使用`crate`角度来说，你可以不使用`extern`关键词了。
+
+### **attributes**
+> refs: <https://doc.rust-lang.org/reference/attributes.html>
+
+注解。编译时候有用，不等于注释。
+
+- `#[test]`就是个测试的`attributes`。表示在测试编译的时候使用。
+
 ### **return**
 
 默认可以不写。
